@@ -9,3 +9,9 @@ sample_submission.csv - a sample submission file in the correct format
 labels.csv - the breeds for the images in the train set
 
 Everyting has been done in the Google Colab
+
+Predictions:
+![image](https://github.com/user-attachments/assets/84e4f320-185a-468e-8ee0-9eb80d64b972)
+
+***Stack***:TensorFlow, Scikit-Learn, Pandas, Numpy, Matplotlip
+
